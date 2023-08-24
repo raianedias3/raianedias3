@@ -1,4 +1,4 @@
-### Oi sou o araiane
+### Oi sou a raiane
 
 Estou estudando no Alura
 
